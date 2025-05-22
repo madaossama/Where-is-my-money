@@ -15,7 +15,7 @@ WIMMY is a Python-based application that helps users manage their financial tran
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/madaossama/Where-is-my-money/
+   git clone https://github.com/madaossama/Where-is-my-money.git
    ```
 2. Navigate to the project directory:
    ```bash
